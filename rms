@@ -1,4 +1,4 @@
 #!/bin/bash
 # Script to show RMS random quote in the terminal
 
-curl -s http://45.77.118.143/test2.php\?cmd\=echo+%26%26+fortune+stallman+%7C+cowsay+-f+rms | sed -e 's/<[^>]*>//g'
+curl -s http://45.77.118.143/test2.php | sed -e 's/<[^>]*>//g'
