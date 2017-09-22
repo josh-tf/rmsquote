@@ -8,7 +8,7 @@
 | Programs |
 | ------ |
 | Curl | 
-| Github |
+| Git |
 
 ### Installation
 
