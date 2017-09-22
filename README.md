@@ -24,6 +24,12 @@ If you wish to run rms from anywhere simply copy to /bin
 # cp rms /bin
 ```
 Once installed simply run from the folder **./rms** or if you copied to bin you can run **rms** from anywhere!
+```sh
+# ./rms
+OR
+# rms
+```
+***Please note*** - you may need to modify file permissions if copying to /bin as root/super user.
 
 #### Sample output: 
 Richard Stallman and a Random Quote (Generated using custom fortune list)
