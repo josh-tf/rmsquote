@@ -22,6 +22,8 @@ $ cd rmsquote
 If you wish to run rms from anywhere simply copy to /bin
 ```sh
 # cp rms /bin
+You may need to change permissions for regular users to run
+# chmod 755 /bin/rms
 ```
 Once installed simply run from the folder **./rms** or if you copied to bin you can run **rms** from anywhere!
 ```sh
