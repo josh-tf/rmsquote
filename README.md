@@ -2,6 +2,8 @@
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
+### Note: Decomissioned!
+
 **RMS Quote** is a simple script that displays a random quote from Richard Stallman.
 
 ### Requirements:
